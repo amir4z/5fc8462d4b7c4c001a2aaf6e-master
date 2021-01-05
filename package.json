@@ -1,0 +1,11 @@
+{
+    "name": "@runkit/amir4z_5fc8462d4b7c4c001a2aaf6e",
+    "version": "0.0.0-master",
+    "main": "./lib/5fc8462d4b7c4c001a2aaf6e",
+    "dependencies": {
+        "async-get-json": "4.0.0"
+    },
+    "scripts": {
+        "install": "node scripts/install.js"
+    }
+}

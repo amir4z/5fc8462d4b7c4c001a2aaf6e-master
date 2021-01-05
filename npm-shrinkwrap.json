@@ -1,0 +1,82 @@
+{
+    "name": "@runkit/amir4z_5fc8462d4b7c4c001a2aaf6e",
+    "version": "0.0.0-master",
+    "dependencies": {
+        "async-get-json": {
+            "version": "4.0.0",
+            "from": "https://registry.npmjs.org/async-get-json/-/async-get-json-4.0.0.tgz",
+            "dependencies": {
+                "got": {
+                    "version": "6.3.0",
+                    "from": "https://registry.npmjs.org/got/-/got-6.3.0.tgz",
+                    "dependencies": {
+                        "create-error-class": {
+                            "version": "3.0.2",
+                            "from": "https://registry.npmjs.org/create-error-class/-/create-error-class-3.0.2.tgz",
+                            "dependencies": {
+                                "capture-stack-trace": {
+                                    "version": "1.0.0",
+                                    "from": "https://registry.npmjs.org/capture-stack-trace/-/capture-stack-trace-1.0.0.tgz"
+                                }
+                            }
+                        },
+                        "duplexer3": {
+                            "version": "0.1.4",
+                            "from": "https://registry.npmjs.org/duplexer3/-/duplexer3-0.1.4.tgz"
+                        },
+                        "get-stream": {
+                            "version": "1.1.0",
+                            "from": "https://registry.npmjs.org/get-stream/-/get-stream-1.1.0.tgz"
+                        },
+                        "is-plain-obj": {
+                            "version": "1.1.0",
+                            "from": "https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-1.1.0.tgz"
+                        },
+                        "is-redirect": {
+                            "version": "1.0.0",
+                            "from": "https://registry.npmjs.org/is-redirect/-/is-redirect-1.0.0.tgz"
+                        },
+                        "is-retry-allowed": {
+                            "version": "1.1.0",
+                            "from": "https://registry.npmjs.org/is-retry-allowed/-/is-retry-allowed-1.1.0.tgz"
+                        },
+                        "is-stream": {
+                            "version": "1.1.0",
+                            "from": "https://registry.npmjs.org/is-stream/-/is-stream-1.1.0.tgz"
+                        },
+                        "lowercase-keys": {
+                            "version": "1.0.0",
+                            "from": "https://registry.npmjs.org/lowercase-keys/-/lowercase-keys-1.0.0.tgz"
+                        },
+                        "node-status-codes": {
+                            "version": "2.0.0",
+                            "from": "https://registry.npmjs.org/node-status-codes/-/node-status-codes-2.0.0.tgz"
+                        },
+                        "timed-out": {
+                            "version": "2.0.0",
+                            "from": "https://registry.npmjs.org/timed-out/-/timed-out-2.0.0.tgz"
+                        },
+                        "unzip-response": {
+                            "version": "1.0.0",
+                            "from": "https://registry.npmjs.org/unzip-response/-/unzip-response-1.0.0.tgz"
+                        },
+                        "url-parse-lax": {
+                            "version": "1.0.0",
+                            "from": "https://registry.npmjs.org/url-parse-lax/-/url-parse-lax-1.0.0.tgz",
+                            "dependencies": {
+                                "prepend-http": {
+                                    "version": "1.0.4",
+                                    "from": "https://registry.npmjs.org/prepend-http/-/prepend-http-1.0.4.tgz"
+                                }
+                            }
+                        }
+                    }
+                },
+                "ramda": {
+                    "version": "0.22.1",
+                    "from": "https://registry.npmjs.org/ramda/-/ramda-0.22.1.tgz"
+                }
+            }
+        }
+    }
+}
